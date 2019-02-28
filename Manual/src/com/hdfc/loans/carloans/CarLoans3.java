@@ -11,8 +11,6 @@ public class CarLoans3
 	{
 		
      System.out.println("Enter Integer i :");
-     System.out.println("Enter Flaot f :");
-     
      
 	}
 
